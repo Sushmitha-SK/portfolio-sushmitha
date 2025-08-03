@@ -97,7 +97,7 @@ const About = () => {
                                     })
                                 }
                                 className="flex items-center gap-2 px-6 py-3 bg-darkBlue text-white rounded-lg 
-                  shadow hover:bg-darkBlue-hover transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-darkBlue"
+                  shadow hover:bg-darkBlue-hover transition-colors duration-300 focus:outline-none"
                             >
                                 <GoDownload className="w-5 h-5" aria-hidden="true" />
                                 <span className="text-sm font-medium">Download CV</span>
