@@ -171,8 +171,8 @@ export const projectData = [
         description: "Responsive personal portfolio built with React and TypeScript, featuring smooth animations and a clean Tailwind CSS design.",
         image: assets.portfolio,
         tags: ["React JS", "TypeScript", "Tailwind CSS", "Context API", "Google Analytics"],
-        github: '',
-        demo: 'http://localhost:5173/'
+        github: 'https://github.com/Sushmitha-SK/portfolio-sushmitha.git',
+        demo: 'https://portfolio-sushmithask.vercel.app/'
     },
 ];
 
