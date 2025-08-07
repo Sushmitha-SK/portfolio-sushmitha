@@ -122,7 +122,7 @@ const Hero = () => {
                                     aria-label="Visit Sushmitha's GitHub profile"
                                     onClick={() => handleSocialClick("GitHub")}
                                 >
-                                    <FaGithub className="transition-all duration-300 w-5 h-5 text-[#181717] dark:text-white hover:scale-110" />
+                                    <FaGithub className="w-5 h-5 text-[#181717] dark:text-white hover:scale-110" />
                                 </a>
                                 <a
                                     href="https://www.linkedin.com/in/sushmithass/"
@@ -131,7 +131,7 @@ const Hero = () => {
                                     aria-label="Visit Sushmitha's LinkedIn profile"
                                     onClick={() => handleSocialClick("LinkedIn")}
                                 >
-                                    <FaLinkedin className="transition-all duration-300 w-5 h-5 text-darkBlue dark:text-white hover:scale-110" />
+                                    <FaLinkedin className="w-5 h-5 text-darkBlue dark:text-white hover:scale-110" />
                                 </a>
                             </div>
                         </div>
