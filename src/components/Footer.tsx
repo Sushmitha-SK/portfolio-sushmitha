@@ -56,7 +56,7 @@ const Footer = () => {
                             }`}
                         onClick={() => handleSocialClick("GitHub")}
                     >
-                        <FaGithub />
+                        <FaGithub className="w-4 h-4"/>
                     </a>
 
                     <a
@@ -68,7 +68,7 @@ const Footer = () => {
                             }`}
                         onClick={() => handleSocialClick("LinkedIn")}
                     >
-                        <FaLinkedinIn />
+                        <FaLinkedinIn className="w-4 h-4"/>
                     </a>
                 </div>
             </div>
